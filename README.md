@@ -1,4 +1,4 @@
-# Assignment 3: Flask CRUD API
+# Flask CRUD API
 
 This project is a simple Flask-based REST API that performs CRUD operations on a student database.
 
